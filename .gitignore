@@ -1,0 +1,40 @@
+# Build directories
+build/
+Debug/
+Release/
+x64/
+.vs/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Output images/videos
+*.avi
+*.mp4
+captured_frame.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files (if you decide not to include ONNX)
+*.onnx
+
+# IDE
+.vscode/
+.idea/
