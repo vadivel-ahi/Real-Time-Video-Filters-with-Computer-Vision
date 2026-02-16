@@ -216,7 +216,7 @@ For detailed implementation notes, algorithm explanations, and performance analy
 
 **Ahilesh Vadivel**  
 📧 vadivel.a@northeastern.edu  
-💼 [LinkedIn](https://www.linkedin.com/in/ahilesh-vadivel-a385ab205)
+💼 [LinkedIn](https://www.linkedin.com/in/ahilesh-vadivel-a385ab205).
 🌐 [Portfolio](https://vadivel-ahi.github.io/).
 
 ---
