@@ -3,6 +3,7 @@
 A high-performance C++ application that applies custom-built image processing filters to live video streams using OpenCV. Implements advanced computer vision techniques including edge detection, face recognition, and depth estimation—all from scratch without relying on built-in filter functions.
 
 ![Demo](/images/captured_frame_color_face_detect.jpg)
+<img src="images/captured_frame_color_face_detect.jpg" width="350"/>
 *Real-time face detection and selective colorization*
 
 ## 🎯 Key Features
